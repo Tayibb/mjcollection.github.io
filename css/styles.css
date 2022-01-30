@@ -1,0 +1,13 @@
+.text-black{
+    color: black;
+}
+.carousel-item img{
+    height: 450px;
+}
+.contacts{
+    background-color: rgb(190, 190, 3);
+}
+.card-body{
+    width: 280px;
+    height: 372px;
+}
